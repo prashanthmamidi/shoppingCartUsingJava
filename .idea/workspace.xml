@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd301803-d24b-4948-bc4a-17d0bfd0fd56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bawOtspno8VzJ7JjIUj2UDDSHF" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShoppingBasketTest">
+    <configuration name="ShoppingBasketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingCartUsingJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingBasketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingBasketTest.BOGOF_forApple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingCartUsingJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingBasketTest" />
+      <option name="METHOD_NAME" value="BOGOF_forApple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingBasketTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingCartUsingJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingBasketTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingBasketTest.threeForTwoOffer_forOrange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingCartUsingJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingBasketTest" />
+      <option name="METHOD_NAME" value="threeForTwoOffer_forOrange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShoppingBasketTest" />
+        <item itemvalue="JUnit.ShoppingBasketTest.threeForTwoOffer_forOrange" />
+        <item itemvalue="JUnit.ShoppingBasketTest.BOGOF_forApple" />
+        <item itemvalue="JUnit.ShoppingBasketTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Eurostar/workspace/LTA_report_job" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/checkout_test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/email_template_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/evoucher_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/hotels_booking_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/hotels_reviews_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/hotels_search_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/image_crawler_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/insurance_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/jactravel-refdata" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/marketing_pref_consumer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/order_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/packages_ancillary_consumer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/packages_checkout_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/packages_checkout_service/glue" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/packages_common" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/packages_search_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/packages_session" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/payments-sdk" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/paypal_payment_sdk" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/paypal_payment_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/swagger-akka-http-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/test/ShoppingCart" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/test/hotels_booking_service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Eurostar/workspace/trustyou-refdata" value="PREVIEW" />
+        <entry key="$USER_HOME$/Test/test1/ShoppingCart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ShoppingCart" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd301803-d24b-4948-bc4a-17d0bfd0fd56" name="Default Changelist" comment="" />
+      <created>1588883483495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588883483495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="244" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588883940242">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="244" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1588883940242" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1588885864978">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588885864978" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1588885864977">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588885864977" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1588885864977">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588885864977" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1588885864978">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588885864978" />
+  </component>
+</project>
